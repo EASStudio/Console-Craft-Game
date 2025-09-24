@@ -1,2 +1,2 @@
 # Console-Craft-Game
-Console Craft is a remake of Minicraft writen in c++. This runs in the console, enjoy! Updates coming soon.
+Console Craft is a remake of Minicraft writen in c++. Download the .exe file and you'll just get the game not any code. I do have the code in a seprate repostory. Updates coming soon, Enjoy!
